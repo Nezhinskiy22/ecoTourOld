@@ -1,0 +1,13 @@
+Mongo 
+Express
+Angular
+Node
+
+Eco tour
+1 Home - news 
+2 Countries - countries&description
+3 Tours - price list
+4 Contact - e-mail, send
+
+
+до понеділка 3 (1-3) практичні 
